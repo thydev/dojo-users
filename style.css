@@ -1,0 +1,16 @@
+#tb-user {
+    border: 1px solid;
+}
+
+#tb-user td, th {
+    width: 150px;
+}
+
+form {
+    width: 300px;
+}
+
+h1 {
+    width: 250px;
+    border-bottom: 2px solid gray;
+}
